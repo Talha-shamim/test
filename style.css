@@ -1,0 +1,28 @@
+*{
+    background-color: white;
+}
+
+#increase, #decrease, #reset{
+    background-color: black;
+    color : white;
+    padding : 10px;
+    font-size: 15px;
+}
+
+#increase:hover, #decrease:hover, #reset:hover{ 
+    background-color: white;
+    color : black;
+}
+
+#count{
+    font-size: 60px;
+}
+
+#wrapper{
+    border : 2px solid black;
+    padding : 30px;
+    width: 30%;
+    text-align: center;
+    margin: 17% auto;
+    box-shadow : 10px 10px 30px black;
+}
